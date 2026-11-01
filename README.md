@@ -6,7 +6,7 @@ A research prototype using EfficientNet-B0 to classify dermatoscopic images from
 
 ## Live demo
 
-[Open the Streamlit app](https://skin-diagnosis-7pqbz55xvfmkdrtbowlbsa.streamlit.app/)
+[Open the Streamlit app](https://skin-diagnosis-hg8ljp57gfawrycmmgwweb.streamlit.app/)
 
 ## Results
 
